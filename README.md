@@ -29,5 +29,15 @@ This is a work in progress. As I learn, this grows. Expect:
 CS student with a focus on deep learning engineering. I spend more time reading papers and building models than I probably should, but that's where I learn best.
 
 ---
+## Agogy
+> *Agogy* indicating a method or practice of leading, guiding, or teaching
+
+**Pedagogy:** Teacher-controlled learning where the instructor determines what, when, and how you learn. This is typical in universities with structured syllabi, required readings, scheduled lectures, and predetermined assessments. The teacher is the central authority guiding your learning path.
+
+**Andragogy:** Self-directed learning where you have significant autonomy but still receive guidance and structure from an instructor. An online course fits here if it has an instructor providing guidance, but you choose to take it and have some control over your pace and approach. The key is that you're motivated to learn and take responsibility, but there's still an expert providing direction.
+
+**Heutagogy:** Completely self-determined learning where you decide everything: what to learn, how to learn it, what resources to use, and how to assess your progress. Reading research articles and resources you found yourself can be heutagogy, but only if you're truly determining your own learning path without external curriculum or guidance.
+
+---
 
 *Last updated: February 2026*
