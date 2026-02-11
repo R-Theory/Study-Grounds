@@ -1,0 +1,191 @@
+#separator:tab
+#html:true
+#tags column:3
+
+# CHAPTER 1: EVOLUTION OF PSYCHOLOGY
+What two fields did psychology originate from?	<b>Philosophy</b> (rationalism - using reason) and <b>Physiology</b> (empiricism - using scientific observation/testing)	PSYC101::Ch1::Origins
+Define Rationalism	Gaining knowledge through REASON and LOGIC (thinking, deducing) - from philosophy	PSYC101::Ch1::Origins
+Define Empiricism	Gaining knowledge through OBSERVATION and EXPERIENCE (testing, experimenting) - from physiology	PSYC101::Ch1::Origins
+Why does psychology need BOTH rationalism and empiricism?	Rationalism helps form hypotheses; Empiricism tests if the reasoning is correct. "Think smart, then test it."	PSYC101::Ch1::Origins
+Who established the first psychology laboratory?	<b>Wilhelm Wundt</b> (1879, Leipzig, Germany)	PSYC101::Ch1::KeyFigures
+What did Wundt study?	<b>Consciousness</b> using <b>reaction-time studies</b>	PSYC101::Ch1::KeyFigures
+Why is Wundt called the "Father of Psychology"?	He made psychology a formal SCIENCE by establishing the first lab	PSYC101::Ch1::KeyFigures
+Who established the first US psychology lab?	<b>Stanley Hall</b> (1882, Johns Hopkins) - formal lab; William James had earlier informal lab (~1875)	PSYC101::Ch1::KeyFigures
+Who founded the American Journal of Psychology?	<b>Stanley Hall</b>	PSYC101::Ch1::KeyFigures
+Who wrote "Principles of Psychology"?	<b>William James</b>	PSYC101::Ch1::KeyFigures
+What is William James's key concept?	<b>"Stream of consciousness"</b> - consciousness flows like a river, not static elements	PSYC101::Ch1::KeyFigures
+Name three early women who contributed to psychology despite discrimination	<b>Mary Calkins</b> (first woman APA president), <b>Margaret Washburn</b> (first woman PhD in psychology), <b>Leta Hollingworth</b>	PSYC101::Ch1::KeyFigures
+Structuralism - Main question?	<b>"WHAT elements is consciousness made of?"</b>	PSYC101::Ch1::Schools
+Structuralism - Leader?	<b>Edward Titchener</b>	PSYC101::Ch1::Schools
+Structuralism - Method?	<b>Introspection</b> (trained self-observation of one's own mental experiences)	PSYC101::Ch1::Schools
+What's the problem with introspection?	Too <b>subjective</b> - different people report different things; can't verify accuracy; can't study unconscious; can't use with children/animals	PSYC101::Ch1::Schools
+Functionalism - Main question?	<b>"WHY does consciousness exist? What PURPOSE does it serve?"</b>	PSYC101::Ch1::Schools
+Functionalism - Leaders?	<b>William James</b>, Stanley Hall	PSYC101::Ch1::Schools
+Functionalism - What inspired it?	<b>Darwin's theory of evolution</b> - if consciousness exists, it must help us survive/adapt	PSYC101::Ch1::Schools
+Structuralism vs. Functionalism - Key difference?	<b>Structuralism</b> = WHAT (parts/elements); <b>Functionalism</b> = WHY (purpose/adaptation)	PSYC101::Ch1::Schools
+Psychoanalysis - Main idea?	<b>Unconscious mind</b> drives behavior; we cope with sexual urges	PSYC101::Ch1::Schools
+Psychoanalysis - Leader?	<b>Sigmund Freud</b>	PSYC101::Ch1::Schools
+Behaviorism - Main idea?	Only study <b>OBSERVABLE BEHAVIOR</b>; ignore thoughts/consciousness; environment shapes everything	PSYC101::Ch1::Schools
+Behaviorism - Leaders?	<b>John B. Watson</b> (1900s-1920s) and <b>B.F. Skinner</b> (1950s onward)	PSYC101::Ch1::Schools
+What did Skinner say about free will?	Free will is an <b>illusion</b>	PSYC101::Ch1::Schools
+Humanism - Main idea?	Emphasize human <b>potential, free will, and personal growth</b>	PSYC101::Ch1::Schools
+Humanism - Leaders?	<b>Carl Rogers</b> and <b>Abraham Maslow</b>	PSYC101::Ch1::Schools
+Clinical Psychology - What do they do?	Study AND treat mental disorders (both research and applied)	PSYC101::Ch1::Divisions
+Cognitive Psychology - What do they study?	Mental processes: memory, thinking, problem-solving, attention	PSYC101::Ch1::Divisions
+Developmental Psychology - What do they study?	Psychological changes across the lifespan (infant → elderly)	PSYC101::Ch1::Divisions
+Social Psychology - What do they study?	How others influence us (groups, persuasion, conformity, prejudice)	PSYC101::Ch1::Divisions
+Physiological/Biological Psychology - What do they study?	Brain-behavior relationships; neuroscience	PSYC101::Ch1::Divisions
+Industrial/Organizational Psychology - What do they do?	Apply psychology to workplace (hiring, motivation, leadership, productivity)	PSYC101::Ch1::Divisions
+When was psychology "born" as a science?	<b>1879</b> - Wundt's first lab	PSYC101::Ch1::Timeline
+
+# CHAPTER 2: RESEARCH METHODS
+What is a Theory?	Broad explanation of many observations; generates many hypotheses	PSYC101::Ch2::Foundations
+What is a Hypothesis?	Specific, testable prediction derived from a theory	PSYC101::Ch2::Foundations
+What is an Operational Definition?	Definition in terms of <b>OPERATIONS</b> (actions) used to measure something	PSYC101::Ch2::Foundations
+What is an Experiment?	Research method with <b>manipulation</b> of a variable, <b>random assignment</b>, and control over extraneous variables	PSYC101::Ch2::Methods
+What can ONLY experiments determine?	<b>CAUSALITY</b> (cause-and-effect relationships)	PSYC101::Ch2::Methods
+What is a Quasi-Experiment?	Looks like experiment but IV has <b>NOT been manipulated</b> by experimenter	PSYC101::Ch2::Methods
+Can quasi-experiments make causal conclusions?	<b>NO</b> - cannot determine cause and effect	PSYC101::Ch2::Methods
+What is Naturalistic Observation?	Observing phenomenon in its natural setting without interference	PSYC101::Ch2::Methods
+What is a Case Study?	In-depth study of a single individual or small group	PSYC101::Ch2::Methods
+What is the Independent Variable (IV)?	The variable that is <b>MANIPULATED</b> by the experimenter (presumed CAUSE)	PSYC101::Ch2::ExperimentalDesign
+What is the Dependent Variable (DV)?	The variable that is <b>MEASURED</b>; may be affected by IV (presumed EFFECT)	PSYC101::Ch2::ExperimentalDesign
+What are Levels of a study?	Number of ways the IV is manipulated	PSYC101::Ch2::ExperimentalDesign
+What is the Experimental Group?	The group "of interest" that receives the treatment	PSYC101::Ch2::ExperimentalDesign
+What is the Control Group?	Comparison group (no treatment or different treatment)	PSYC101::Ch2::ExperimentalDesign
+What is Random Assignment?	Each participant has an <b>EQUAL chance</b> of being assigned to ANY group	PSYC101::Ch2::ExperimentalDesign
+Why is random assignment important?	1. Decreases chances groups differ BEFORE manipulation; 2. Spreads extraneous variables equally; 3. Without it, results are CONFOUNDED	PSYC101::Ch2::ExperimentalDesign
+What is an Extraneous Variable?	Variable that COULD influence results BUT is spread <b>EQUALLY</b> across groups	PSYC101::Ch2::ExperimentalDesign
+What is a Confounding Variable?	Variable that influences results AND is <b>NOT equal</b> across groups	PSYC101::Ch2::ExperimentalDesign
+Does a confounding variable invalidate a study?	<b>YES</b> - study is INVALID/inconclusive	PSYC101::Ch2::ExperimentalDesign
+What is a Correlation Coefficient (r)?	Number from -1 to +1 showing strength and direction of relationship	PSYC101::Ch2::Statistics
+What does a positive correlation mean?	Variables move in the <b>SAME</b> direction	PSYC101::Ch2::Statistics
+What does a negative correlation mean?	Variables move in <b>OPPOSITE</b> directions	PSYC101::Ch2::Statistics
+Does correlation mean causation?	<b>NO!</b> Correlation does NOT equal causation!	PSYC101::Ch2::Statistics
+What is the 3rd Variable Problem?	A third variable could be causing BOTH correlated variables	PSYC101::Ch2::Statistics
+What are Inferential Statistics?	Statistics that determine if sample results can be <b>GENERALIZED to population</b>	PSYC101::Ch2::Statistics
+What does p < .05 mean?	Less than 5% chance results are a fluke → <b>CAN generalize</b> to population	PSYC101::Ch2::Statistics
+What is the Placebo Effect?	Improvement due to <b>BELIEF</b> in treatment, not treatment itself	PSYC101::Ch2::Problems
+What is a Single-Blind study?	<b>Participants</b> don't know their condition (controls for participant bias)	PSYC101::Ch2::Problems
+What is a Double-Blind study?	<b>NEITHER</b> participants NOR experimenters know conditions (controls for BOTH biases)	PSYC101::Ch2::Problems
+What is a Meta-Analysis?	Statistical analysis combining results from MANY studies	PSYC101::Ch2::Problems
+Why do we need ethics committees?	<b>Tuskegee Syphilis Experiment</b> showed need for ethics oversight	PSYC101::Ch2::Ethics
+Can participants quit a study?	<b>YES</b> - can quit at <b>ANY time</b>, even after signing consent	PSYC101::Ch2::Ethics
+
+# CHAPTER 3: BIOLOGICAL BASES
+What is the function of neurons?	<b>Receives, processes, and transmits</b> information	PSYC101::Ch3::BrainCells
+What do Dendrites do?	<b>RECEIVE</b> information from other neurons	PSYC101::Ch3::BrainCells
+What does the Soma (cell body) do?	Contains nucleus and organelles; <b>PROCESSES</b> information	PSYC101::Ch3::BrainCells
+What does the Axon do?	<b>TRANSMITS</b> information away from cell body	PSYC101::Ch3::BrainCells
+What does the Myelin sheath do?	Insulation that <b>SPEEDS UP</b> signal transmission	PSYC101::Ch3::BrainCells
+What are Nodes of Ranvier?	Gaps in myelin where action potential "jumps"	PSYC101::Ch3::BrainCells
+What do Oligodendrocytes do?	Create myelin in <b>CNS</b>; ONE cell can myelinate MULTIPLE axons	PSYC101::Ch3::Glia
+What do Schwann cells do?	Create myelin in <b>PNS</b>; ONE cell creates only ONE segment on ONE axon	PSYC101::Ch3::Glia
+What do Astrocytes do?	Synchronize neuron communication, nurture cells, remove waste	PSYC101::Ch3::Glia
+What do Microglia do?	Immune system function; remove waste, bacteria, viruses	PSYC101::Ch3::Glia
+What is an Action Potential?	Electrical AND chemical signal that travels down the AXON	PSYC101::Ch3::NeuralSignals
+What does All-or-none mean?	Either fires completely or not at all (no partial firing)	PSYC101::Ch3::NeuralSignals
+What is the Threshold of excitation?	Minimum stimulation needed to trigger action potential	PSYC101::Ch3::NeuralSignals
+What is an EPSP?	Excitatory Postsynaptic Potential - makes neuron MORE likely to fire (depolarization)	PSYC101::Ch3::NeuralSignals
+What is an IPSP?	Inhibitory Postsynaptic Potential - makes neuron LESS likely to fire (hyperpolarization)	PSYC101::Ch3::NeuralSignals
+What is Summation?	EPSPs and IPSPs are added together	PSYC101::Ch3::NeuralSignals
+What is the main INHIBITORY neurotransmitter?	<b>GABA</b>	PSYC101::Ch3::Neurotransmitters
+What is the main EXCITATORY neurotransmitter?	<b>Glutamate</b>	PSYC101::Ch3::Neurotransmitters
+What does Acetylcholine (ACh) do?	PNS: Muscle contractions; CNS: Arousal, attention, learning, memory	PSYC101::Ch3::Neurotransmitters
+What does Dopamine (DA) do?	Movement, addictions, mood	PSYC101::Ch3::Neurotransmitters
+What does Serotonin (5-HT) do?	Sleep/arousal, mood, eating, aggression, impulsivity	PSYC101::Ch3::Neurotransmitters
+What do Endorphins do?	Modulate/decrease PAIN	PSYC101::Ch3::Neurotransmitters
+What is an Agonist?	<b>INCREASES</b> neurotransmitter activity	PSYC101::Ch3::Neurotransmitters
+What is an Antagonist?	<b>DECREASES/BLOCKS</b> neurotransmitter activity	PSYC101::Ch3::Neurotransmitters
+What are the two main divisions of the Nervous System?	<b>Central NS</b> (CNS) and <b>Peripheral NS</b> (PNS)	PSYC101::Ch3::NervousSystem
+What makes up the CNS?	<b>Brain + Spinal Cord</b>	PSYC101::Ch3::NervousSystem
+What does Afferent mean?	"Approaching" the brain (sensory info coming IN)	PSYC101::Ch3::NervousSystem
+What does Efferent mean?	"Exiting" the brain (motor commands going OUT)	PSYC101::Ch3::NervousSystem
+What does a CT scan show?	<b>STRUCTURAL</b> info using multiple X-rays	PSYC101::Ch3::BrainMethods
+What does an MRI show?	<b>STRUCTURAL</b> info using magnet; NO radiation; BEST resolution	PSYC101::Ch3::BrainMethods
+What does a PET scan show?	<b>FUNCTIONAL</b> info using radioactive glucose; measures blood flow	PSYC101::Ch3::BrainMethods
+What does an fMRI show?	<b>BOTH</b> structural + functional; measures blood flow & oxygen	PSYC101::Ch3::BrainMethods
+What does the Medulla control?	Vital functions: breathing, heart rate, blood pressure	PSYC101::Ch3::Hindbrain
+What does the Cerebellum do?	Motor coordination, balance ("little brain")	PSYC101::Ch3::Hindbrain
+What do Superior colliculi process?	<b>VISUAL</b> information	PSYC101::Ch3::Midbrain
+What do Inferior colliculi process?	<b>AUDITORY</b> information	PSYC101::Ch3::Midbrain
+What does the Substantia nigra do?	Produces <b>DOPAMINE</b> neurons (Parkinson's disease affects this)	PSYC101::Ch3::Midbrain
+What does the Thalamus do?	"Sensory relay station" - ALL senses go here EXCEPT <b>olfaction</b>	PSYC101::Ch3::Forebrain
+Which sense doesn't go through thalamus?	<b>Olfaction (smell)</b>	PSYC101::Ch3::Forebrain
+What does the Hypothalamus control?	"4 Fs" - Fighting, Fleeing, Feeding, Mating; controls pituitary gland	PSYC101::Ch3::Forebrain
+What does the Hippocampus do?	Memory formation	PSYC101::Ch3::Forebrain
+What does the Amygdala do?	Fear, emotional memories	PSYC101::Ch3::Forebrain
+What does the Corpus callosum do?	Connects left and right hemispheres	PSYC101::Ch3::Forebrain
+What does the Occipital lobe contain?	Primary <b>VISUAL</b> cortex	PSYC101::Ch3::CerebralCortex
+What does the Temporal lobe contain?	Primary <b>AUDITORY</b> cortex	PSYC101::Ch3::CerebralCortex
+What does the Parietal lobe contain?	Primary <b>SOMATOSENSORY</b> cortex	PSYC101::Ch3::CerebralCortex
+What does the Frontal lobe contain?	Primary <b>MOTOR</b> cortex + Prefrontal cortex	PSYC101::Ch3::CerebralCortex
+What does the Prefrontal cortex do?	Executive functions: planning, working memory, inhibiting impulses	PSYC101::Ch3::CerebralCortex
+When does prefrontal cortex fully mature?	~<b>25 years old</b>	PSYC101::Ch3::CerebralCortex
+What is the Left hemisphere specialized for?	<b>Language</b> (for most people)	PSYC101::Ch3::Lateralization
+What does Broca's area control?	Speech <b>PRODUCTION</b>	PSYC101::Ch3::Lateralization
+What does Wernicke's area control?	Speech <b>COMPREHENSION</b>	PSYC101::Ch3::Lateralization
+What is Plasticity?	Brain's ability to change in response to experience	PSYC101::Ch3::Plasticity
+What is Neurogenesis?	New neurons created (in hippocampus, olfactory bulb)	PSYC101::Ch3::Plasticity
+What is a Concordance rate?	Rate of agreement between twin pairs	PSYC101::Ch3::Heredity
+If MZ concordance > DZ concordance, what does that suggest?	<b>Genetic influence</b> on the trait	PSYC101::Ch3::Heredity
+
+# CHAPTER 4: SENSATION & PERCEPTION
+What is Sensation?	The process of <b>DETECTING</b> physical stimuli through sensory organs	PSYC101::Ch4::Basics
+What is Perception?	The process of <b>INTERPRETING</b> and organizing sensory information into meaningful experiences	PSYC101::Ch4::Basics
+What is Transduction?	The process by which a stimulus is represented neurally (converted to neural signals)	PSYC101::Ch4::Basics
+What is the stimulus for vision?	<b>Electromagnetic radiation</b> between 480-760 nanometers	PSYC101::Ch4::Vision
+Wavelength of light determines what?	<b>COLOR</b> (ROYGBIV)	PSYC101::Ch4::Vision
+Which color has the LONGEST wavelength?	<b>Red</b>	PSYC101::Ch4::Vision
+Which color has the SHORTEST wavelength?	<b>Violet</b>	PSYC101::Ch4::Vision
+Amplitude of light determines what?	<b>Brightness</b>	PSYC101::Ch4::Vision
+Purity of light determines what?	<b>Saturation</b> (how vivid the color appears)	PSYC101::Ch4::Vision
+Order light passes through the eye?	Cornea → Pupil/Iris → Lens → Vitreous humor → Retina	PSYC101::Ch4::Vision
+Where does transduction occur in the eye?	<b>Rods and Cones</b> (photoreceptors)	PSYC101::Ch4::Vision
+Rods are for what type of vision?	<b>Scotopic</b> (dim light/night vision)	PSYC101::Ch4::Vision
+Cones are for what type of vision?	<b>Photopic</b> (bright light/day vision)	PSYC101::Ch4::Vision
+Which has greater visual acuity (detail)?	<b>Cones</b>	PSYC101::Ch4::Vision
+Where are rods located?	More in the <b>PERIPHERY</b> of retina	PSYC101::Ch4::Vision
+Where are cones located?	More in <b>CENTER</b> of retina; ONLY cones in <b>fovea</b>	PSYC101::Ch4::Vision
+What is the Optic disk?	Where ganglion axons pass through; NO photoreceptors = BLIND SPOT	PSYC101::Ch4::Vision
+Where is the primary visual cortex?	<b>Occipital lobe</b> (also called V1 or striate cortex)	PSYC101::Ch4::Vision
+What do Simple cells detect?	Orientation of line AND location within receptive field	PSYC101::Ch4::Vision
+What do Complex cells detect?	Orientation of line AND movement	PSYC101::Ch4::Vision
+WHAT pathway (Ventral stream) function?	Analyzes <b>WHAT</b> the object IS (temporal lobe)	PSYC101::Ch4::Vision
+WHERE pathway (Dorsal stream) function?	Analyzes <b>WHERE</b> the object is (parietal lobe)	PSYC101::Ch4::Vision
+Trichromatic theory says...	3 types of cones for short (blue), medium (green), and long (red) wavelengths	PSYC101::Ch4::ColorVision
+Who proposed Trichromatic theory?	<b>Young</b> (proposed), <b>Helmholtz</b> (refined)	PSYC101::Ch4::ColorVision
+Opponent Process theory says...	Neurons signal color by rate of firing; paired as opponents (blue/yellow, red/green)	PSYC101::Ch4::ColorVision
+Who proposed Opponent Process theory?	<b>Hering</b>	PSYC101::Ch4::ColorVision
+Why can't we see "reddish-green"?	Neuron can't ↑ AND ↓ activity at same time (opponent process)	PSYC101::Ch4::ColorVision
+Which color theory is correct?	<b>BOTH!</b> Trichromatic at photoreceptors; Opponent process at bipolar cells onward	PSYC101::Ch4::ColorVision
+If you stare at GREEN, what afterimage do you see?	<b>RED</b> (complementary color due to rebound effect)	PSYC101::Ch4::ColorVision
+What is Bottom-up processing?	Building from simple features UP to complex perception (feature detection)	PSYC101::Ch4::Perception
+What is Top-down processing?	Information taken as a "whole"; influenced by expectations	PSYC101::Ch4::Perception
+What is the Stroop effect?	When top-down and bottom-up processing INTERFERE (e.g., "RED" in blue ink)	PSYC101::Ch4::Perception
+Name Gestalt principles	Figure & Ground, Proximity, Closure, Similarity, Continuity, Simplicity	PSYC101::Ch4::Perception
+What are Monocular cues?	Depth cues from ONE eye (accommodation, pictorial cues)	PSYC101::Ch4::Depth
+What is Retinal disparity?	Difference in view between two eyes (binocular cue; closer = more disparity)	PSYC101::Ch4::Depth
+What is the stimulus for hearing?	<b>Compression & decompression of molecules</b> (sound waves)	PSYC101::Ch4::Audition
+Wavelength/frequency of sound determines what?	<b>Pitch</b> (lower frequency = lower pitch)	PSYC101::Ch4::Audition
+Amplitude of sound determines what?	<b>Loudness</b> (greater amplitude = louder)	PSYC101::Ch4::Audition
+Order sound passes through ear?	Outer ear (pinna) → Middle ear (tympanic membrane, ossicles) → Inner ear (oval window, cochlea)	PSYC101::Ch4::Audition
+What are the Ossicles?	3 tiny bones: Hammer (malleus), Anvil (incus), Stirrup (stapes)	PSYC101::Ch4::Audition
+Where does transduction occur in the ear?	<b>Auditory hair cells</b> on basilar membrane in cochlea	PSYC101::Ch4::Audition
+Place theory says...	Different frequencies stimulate different AREAS of basilar membrane	PSYC101::Ch4::Audition
+Place theory is best for...	<b>HIGHER pitches</b>	PSYC101::Ch4::Audition
+Frequency theory says...	Basilar membrane mimics sound waveform; neurons fire in synchrony	PSYC101::Ch4::Audition
+Frequency theory is best for...	<b>LOWER pitches</b>	PSYC101::Ch4::Audition
+What is the vestibular system for?	<b>Sense of balance</b>	PSYC101::Ch4::OtherSenses
+Where is vestibular system located?	<b>Inner ear</b> (near cochlea)	PSYC101::Ch4::OtherSenses
+What are the 5 primary tastes?	Sweet, Sour, Bitter, Salty, <b>Umami</b>	PSYC101::Ch4::OtherSenses
+Where does taste transduction occur?	<b>Taste hairs</b> on tongue	PSYC101::Ch4::OtherSenses
+Primary cortex for taste?	<b>Insular cortex</b> (frontal lobe)	PSYC101::Ch4::OtherSenses
+Where does smell transduction occur?	<b>Olfactory dendrites</b> in nose	PSYC101::Ch4::OtherSenses
+What is UNIQUE about olfaction?	ONLY sense that does NOT go through <b>thalamus</b> before primary cortex!	PSYC101::Ch4::OtherSenses
+What are C fibers?	SLOW pathway - dull, aching pain	PSYC101::Ch4::Pain
+What are A-delta fibers?	FAST pathway - sharp pain (knife cut)	PSYC101::Ch4::Pain
+Who proposed Gate Control Theory?	<b>Melzack and Wall</b>	PSYC101::Ch4::Pain
+What does Gate Control Theory explain?	How we <b>MODULATE</b> (control) pain	PSYC101::Ch4::Pain
+Peripheral triggers for pain gate?	From body/PNS - rubbing injury, heat/cold, acupuncture (CLOSES gate)	PSYC101::Ch4::Pain
+Central triggers for pain gate?	From brain/CNS - distraction, emotions, expectations (can OPEN or CLOSE gate)	PSYC101::Ch4::Pain

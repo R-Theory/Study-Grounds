@@ -63,6 +63,9 @@ dmypy.json
 *.log
 logs/
 
+# Nested git repos (course repos managed independently)
+Pedagogy/Semester 4/Repos/course-repos/COMP110/COMP110 Workspace/comp110-26s-workspace/
+
 # Misc
 *.bak
 *.tmp
