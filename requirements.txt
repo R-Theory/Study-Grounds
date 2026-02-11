@@ -21,6 +21,6 @@ sympy==1.14.0
 mpmath==1.3.0
 
 # Utilities
-pillow==12.1.0
+pillow==12.1.1
 networkx==3.6.1
 python-dateutil==2.9.0.post0
