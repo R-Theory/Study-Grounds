@@ -1,42 +1,27 @@
 {
   "main": {
-    "id": "bea3416fa6682878",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "1ecb5bc83745b9db",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "fd8a255809e495b6",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Heutagogy/research-notes/Attention Is All You Need/Abstract.md",
+                "file": "Navigation Index/Navigation Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Abstract"
-            }
-          },
-          {
-            "id": "8a3c7e9c71c71ecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Heutagogy/research-notes/Attention Is All You Need/Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Navigation Index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,6 +33,7 @@
       {
         "id": "c72359d2357a73a6",
         "type": "tabs",
+        "dimension": 66.97247706422019,
         "children": [
           {
             "id": "674111f9114c4e93",
@@ -56,7 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -90,6 +76,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "17df199d66bded9a",
+        "type": "tabs",
+        "dimension": 33.02752293577982,
+        "children": [
+          {
+            "id": "5950bd1a48a7dc36",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Heutagogy/research-notes/Attention Is All You Need/Introduction.md",
+                "file": "Navigation Index/Navigation Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Introduction"
+              "title": "Backlinks for Navigation Index"
             }
           },
           {
@@ -128,12 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Heutagogy/research-notes/Attention Is All You Need/Introduction.md",
+                "file": "Navigation Index/Navigation Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Introduction"
+              "title": "Outgoing links from Navigation Index"
             }
           },
           {
@@ -171,13 +174,50 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Heutagogy/research-notes/Attention Is All You Need/Introduction.md",
+                "file": "Navigation Index/Navigation Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction"
+              "title": "Outline of Navigation Index"
+            }
+          },
+          {
+            "id": "2df3e7f0f851c6fd",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "Dictionary"
+            }
+          },
+          {
+            "id": "fc449e11d7d7010f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "b7e2246c5d76a453",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84def855facedba0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -195,32 +235,55 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-importer:Open Importer": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "homepage:Open homepage": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8a3c7e9c71c71ecb",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Learning/Heutagogy/research-notes/Attention Is All You Need/Abstract.md",
-    "Learning/Heutagogy/research-notes/Attention Is All You Need/Introduction.md",
-    "Learning/Pedagogy/UNC/s4/PSYC101/Exams/Exam I/notes/Chapter 2.md",
-    "Learning/Heutagogy/research-notes/Attention Is All You Need",
-    "Learning/Heutagogy/research-notes",
-    "Learning/Heutagogy/courses",
-    "Learning/Pedagogy/UNC/s4/DATA120",
-    "Learning/Pedagogy/UNC/s4/COMP110",
-    "Learning/Pedagogy/UNC/s4/STOR155",
-    "Learning/Pedagogy/UNC/s3",
-    "Learning/Pedagogy/UNC/s4",
-    "Learning/Pedagogy",
-    "Learning/Heutagogy",
-    "Learning/Pedagogy/UNC/s4/PSYC101/Exams/Exam I/Exam_I_Master_Study_Guide.md",
-    "Learning/Pedagogy/UNC/s4/PSYC101/Exams/Exam I/resources/my-resources/Flashcards_Chapter4.md",
-    "Learning/Pedagogy/UNC/s4/PSYC101/Exams/Exam I/resources/my-resources/Flashcards_Chapter3.md",
-    "Learning/Pedagogy/UNC/s4/PSYC101/Exams/Exam I/resources/my-resources/Flashcards_Chapter2.md",
-    "Learning/Pedagogy/UNC/s4/PSYC101/Exams/Exam I/resources/my-resources/NotebookLM Video Prompts.md",
-    "Learning/Pedagogy/UNC/s4/PSYC101/Exams/Exam I/notes/Chapter 4.md",
-    "Learning/Pedagogy/UNC/s4/PSYC101/Exams/Exam I/notes/Chapter 3.md",
-    "Learning/Pedagogy/UNC/s4/PSYC101/Exams/Exam I/resources/my-resources/Flashcards.md",
-    "Learning/Pedagogy/UNC/s4/PSYC101/Exams/Exam I/notes/Chapter 1.md"
+    "Navigation Index/Navigation Index.md",
+    "Tasks.md",
+    "imgs",
+    "Learning/Andragogy/Project Documentation/Tiny/Tiny.md",
+    "Learning/Pedagogy/UNC/s4/COMP110/Practice/Memory Diagram/Drawing 2026-02-12 19.08.45.excalidraw.md",
+    "imgs/Screenshot 2026-02-12 at 7.22.15 PM.png",
+    "Excalidraw",
+    "Learning/Pedagogy/UNC/s4/COMP110/Practice/Memory Diagram",
+    "Learning/Pedagogy/UNC/s4/COMP110/Practice",
+    "Learning/Heutagogy/research-notes/Attention Is All You Need/README.md",
+    "Learning/Heutagogy/research-notes/README.md",
+    "Learning/Heutagogy/courses/README.md",
+    "Learning/Heutagogy/README.md",
+    "Learning/Andragogy/README.md",
+    "Learning/Pedagogy/UNC/s4/STOR155/Exams/Exam I/resources/my-resources/README.md",
+    "Learning/Pedagogy/UNC/s4/STOR155/Exams/Exam I/resources/README.md",
+    "Learning/Pedagogy/UNC/s4/STOR155/Exams/Exam I/notes/README.md",
+    "Learning/Pedagogy/UNC/s4/STOR155/Exams/Exam I/README.md",
+    "Learning/Pedagogy/UNC/s4/STOR155/Exams/README.md",
+    "Learning/Pedagogy/UNC/s4/STOR155/README.md",
+    "Learning/Pedagogy/UNC/s4/PSYC101/Exams/Exam I/resources/my-resources/README.md",
+    "Learning/Pedagogy/UNC/s4/PSYC101/Exams/Exam I/resources/README.md",
+    "Learning/Pedagogy/UNC/s4/PSYC101/Exams/Exam I/notes/README.md",
+    "Learning/Pedagogy/UNC/s4/PSYC101/Exams/Exam I/README.md",
+    "Learning/Pedagogy/UNC/s4/PSYC101/Exams/README.md",
+    "Learning/Pedagogy/UNC/s4/PSYC101/README.md",
+    "Learning/Pedagogy/UNC/s4/DATA120/README.md",
+    "Learning/Pedagogy/UNC/s4/COMP110/README.md",
+    "Learning/Pedagogy/UNC/s4/README.md",
+    "Learning/Pedagogy/UNC/s3/README.md",
+    "Learning/Andragogy/Project Documentation/Tiny",
+    "Learning/Andragogy/Project Documentation",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Navigation Index",
+    "Learning/Pedagogy/UNC/s4/STOR155/Exams/Exam I/resources/my-resources/STOR155_Exam1_Anki_Import.txt"
   ]
 }

@@ -1,0 +1,128 @@
+#separator:tab
+#html:true
+#tags column:3
+
+# TOPIC 1: BASICS OF DATA
+What is a variable?	A characteristic/attribute that can take <b>different values</b> across observations	STOR155::T1::Variables
+What are the two main types of variables?	<b>Numerical</b> (quantitative) and <b>Categorical</b> (qualitative)	STOR155::T1::Variables
+What are the two subtypes of numerical variables?	<b>Discrete</b> (countable: 0,1,2,3...) and <b>Continuous</b> (any value in a range)	STOR155::T1::Variables
+What are the two subtypes of categorical variables?	<b>Nominal</b> (no order: eye color) and <b>Ordinal</b> (has order: education level)	STOR155::T1::Variables
+Can numbers be categorical? Example?	<b>YES!</b> Zip codes, jersey numbers, SSN - if averaging is <b>meaningless</b>, it's categorical	STOR155::T1::Variables
+What is the population?	The <b>ENTIRE</b> group you want to study/make conclusions about	STOR155::T1::PopSample
+What is a sample?	A <b>SUBSET</b> of the population that you actually collect data from	STOR155::T1::PopSample
+What is a parameter?	A number describing the <b>POPULATION</b> (usually unknown)	STOR155::T1::PopSample
+What is a statistic?	A number describing the <b>SAMPLE</b> (what we calculate)	STOR155::T1::PopSample
+Memory trick for Parameter vs Statistic?	<b>P</b>arameter → <b>P</b>opulation; <b>S</b>tatistic → <b>S</b>ample	STOR155::T1::PopSample
+What is an explanatory variable?	The variable that <b>EXPLAINS</b> or predicts (the "cause" or x-variable)	STOR155::T1::Relationships
+What is a response variable?	The variable being <b>EXPLAINED</b> or predicted (the "effect" or y-variable)	STOR155::T1::Relationships
+
+# TOPIC 2: DATA COLLECTION & SAMPLING
+What are the THREE sources of data?	1) <b>Anecdotes</b>, 2) <b>Observational Studies</b>, 3) <b>Experiments</b>	STOR155::T2::DataSources
+Why are anecdotes bad for research?	Cannot generalize from one or few cases; individual stories aren't <b>representative</b>	STOR155::T2::DataSources
+What is an observational study?	<b>PASSIVE</b> data collection - observe without influencing responses	STOR155::T2::StudyTypes
+Can observational studies establish causation?	<b>NO!</b> Can only show correlation/association due to <b>confounding variables</b>	STOR155::T2::StudyTypes
+What is an experiment?	<b>ACTIVE</b> data collection - deliberately influence responses with treatment	STOR155::T2::StudyTypes
+Can experiments establish causation?	<b>YES!</b> With proper design (random assignment, control group)	STOR155::T2::StudyTypes
+What is a confounding variable?	A factor <b>OTHER THAN</b> your explanatory variable that might affect your response variable	STOR155::T2::Confounding
+Classic example of confounding?	Ice cream sales ↑ and drowning ↑ are BOTH caused by <b>HOT WEATHER</b>	STOR155::T2::Confounding
+What is Simple Random Sampling (SRS)?	Every member has <b>EQUAL chance</b> of selection (drawing names from a hat)	STOR155::T2::Sampling
+What is Stratified Sampling?	Divide into <b>HOMOGENEOUS</b> groups (strata), then SRS from <b>EACH</b> group	STOR155::T2::Sampling
+What is Cluster Sampling?	Divide into <b>HETEROGENEOUS</b> groups, randomly select <b>WHICH</b> clusters, survey <b>EVERYONE</b> in selected clusters	STOR155::T2::Sampling
+What is Multistage Sampling?	Cluster sampling + SRS <b>within</b> selected clusters	STOR155::T2::Sampling
+What is Convenience Sampling?	Sample only easy-to-reach participants - <b>BIASED!</b>	STOR155::T2::Bias
+What is Voluntary Response bias?	People choose to participate - only strong opinions respond - <b>BIASED!</b>	STOR155::T2::Bias
+What is Non-response bias?	Planned sample is good, but many don't respond - resulting sample <b>differs</b>	STOR155::T2::Bias
+Key difference: Stratified vs Cluster?	<b>Stratified</b>: homogeneous groups, sample from <b>ALL</b>. <b>Cluster</b>: heterogeneous groups, sample from <b>SOME</b>	STOR155::T2::Sampling
+
+# TOPIC 3: EXPERIMENTS
+What are the 4 principles of experimental design?	<b>CONTROL, RANDOMIZE, REPLICATE, BLOCK</b>	STOR155::T3::Principles
+What does CONTROL mean in experiments?	Assign participants to <b>multiple treatment groups</b> (at least one control group)	STOR155::T3::Principles
+What does RANDOMIZE mean in experiments?	Assign subjects <b>RANDOMLY</b> to treatment groups to reduce bias	STOR155::T3::Principles
+What does REPLICATE mean in experiments?	Test on <b>MULTIPLE subjects</b>; must be repeatable by others	STOR155::T3::Principles
+What does BLOCK mean in experiments?	Separate subjects into groups by a blocking variable <b>BEFORE</b> random assignment	STOR155::T3::Principles
+What is a blocking variable?	A characteristic likely to influence outcomes (<b>NOT</b> what you're testing)	STOR155::T3::Blocking
+Blocking is the experimental equivalent of what?	<b>Stratifying</b> (in sampling)	STOR155::T3::Blocking
+What is a placebo?	<b>Fake treatment</b> (sugar pill) - controls for placebo effect	STOR155::T3::Blinding
+What is the placebo effect?	People improve just because they <b>THINK</b> they're being treated	STOR155::T3::Blinding
+What is blinding?	<b>Subjects don't know</b> which treatment they receive	STOR155::T3::Blinding
+What is double-blind?	<b>NEITHER</b> subjects <b>NOR</b> researchers know who got what treatment	STOR155::T3::Blinding
+Random assignment allows what type of conclusion?	<b>CAUSAL</b> conclusions	STOR155::T3::Conclusions
+Random sampling allows what type of conclusion?	<b>GENERALIZABLE</b> conclusions (to the population)	STOR155::T3::Conclusions
+Observational studies can NEVER establish...?	<b>CAUSATION</b> - only correlation/association	STOR155::T3::Conclusions
+
+# TOPIC 4: NUMERICAL DATA ANALYSIS
+What does SOCS stand for?	<b>S</b>hape, <b>O</b>utliers, <b>C</b>enter, <b>S</b>pread	STOR155::T4::SOCS
+What are the types of modality (Shape)?	<b>Unimodal</b> (1 peak), <b>Bimodal</b> (2 peaks), <b>Multimodal</b> (3+), <b>Uniform</b> (flat)	STOR155::T4::Shape
+What does "right-skewed" mean?	Tail extends to the <b>RIGHT</b>, peak on <b>LEFT</b>	STOR155::T4::Shape
+What does "left-skewed" mean?	Tail extends to the <b>LEFT</b>, peak on <b>RIGHT</b>	STOR155::T4::Shape
+In right-skewed data, Mean vs Median?	<b>Mean > Median</b> (mean pulled toward tail)	STOR155::T4::Shape
+In left-skewed data, Mean vs Median?	<b>Mean < Median</b>	STOR155::T4::Shape
+In symmetric data, Mean vs Median?	<b>Mean ≈ Median</b>	STOR155::T4::Shape
+Formula for mean?	x̄ = (1/n) × Σxᵢ	STOR155::T4::Center
+What is the median?	<b>Middle value</b> when data is sorted	STOR155::T4::Center
+Formula for sample variance?	s² = [1/<b>(n-1)</b>] × Σ(xᵢ - x̄)²	STOR155::T4::Spread
+CRITICAL: Variance divides by what?	<b>(n-1)</b>, NOT n!	STOR155::T4::Spread
+Formula for standard deviation?	s = √(variance) = √s²	STOR155::T4::Spread
+Formula for IQR?	<b>IQR = Q3 - Q1</b>	STOR155::T4::Spread
+What is Q1?	<b>25th percentile</b> (median of lower half)	STOR155::T4::Quartiles
+What is Q3?	<b>75th percentile</b> (median of upper half)	STOR155::T4::Quartiles
+How to identify outliers (IQR method)?	x < <b>Q1 - 1.5×IQR</b> OR x > <b>Q3 + 1.5×IQR</b>	STOR155::T4::Outliers
+What is the five-number summary?	<b>Min, Q1, Median, Q3, Max</b>	STOR155::T4::Summary
+Which measures are ROBUST to outliers?	<b>Median</b> and <b>IQR</b>	STOR155::T4::Robust
+Which measures are SENSITIVE to outliers?	<b>Mean, Variance, Standard Deviation</b>	STOR155::T4::Robust
+If you ADD constant c to all values, what changes?	Mean and Median <b>shift by c</b>; SD, Variance, Shape <b>UNCHANGED</b>	STOR155::T4::Transformations
+If you MULTIPLY all values by c, what changes?	Mean, Median, SD multiply by c; Variance multiplies by <b>c²</b>; Shape UNCHANGED	STOR155::T4::Transformations
+
+# TOPIC 5: CATEGORICAL DATA ANALYSIS
+What is a contingency table?	Table showing counts for <b>TWO categorical variables</b> combined	STOR155::T5::Tables
+How to find proportion of total?	(Cell count) / (Grand total)	STOR155::T5::Proportions
+How to find row proportion?	(Cell count) / (Row total)	STOR155::T5::Proportions
+How to find column proportion?	(Cell count) / (Column total)	STOR155::T5::Proportions
+Bar plot vs Histogram: gaps?	Bar plot has <b>GAPS</b> between bars; Histogram bars are <b>ADJACENT</b>	STOR155::T5::Plots
+Bar plot vs Histogram: data type?	Bar plot = <b>Categorical</b>; Histogram = <b>Numerical</b>	STOR155::T5::Plots
+
+# TOPIC 6: CORRELATION
+What does correlation (r) measure?	<b>Strength and DIRECTION</b> of LINEAR relationship between two numerical variables	STOR155::T6::Definition
+What is the range of r?	<b>-1 ≤ r ≤ +1</b>	STOR155::T6::Properties
+r = +1 means?	<b>Perfect POSITIVE</b> linear relationship	STOR155::T6::Properties
+r = -1 means?	<b>Perfect NEGATIVE</b> linear relationship	STOR155::T6::Properties
+r = 0 means?	<b>NO linear relationship</b> (but could have nonlinear!)	STOR155::T6::Properties
+r > 0 indicates?	As x increases, y <b>TENDS TO increase</b>	STOR155::T6::Interpretation
+r < 0 indicates?	As x increases, y <b>TENDS TO decrease</b>	STOR155::T6::Interpretation
+Does r change if you add a constant to x or y?	<b>NO</b> - correlation is invariant under translation	STOR155::T6::Invariance
+Does r change if you multiply x or y by a constant?	<b>NO</b> - correlation is invariant under scaling	STOR155::T6::Invariance
+Does r change if you swap x and y?	<b>NO</b> - r(x,y) = r(y,x)	STOR155::T6::Invariance
+Can r = 0 with a strong relationship?	<b>YES</b> - if relationship is <b>NONLINEAR</b> (e.g., parabola)	STOR155::T6::Limitations
+Is r robust to outliers?	<b>NO!</b> Outliers can <b>drastically</b> change r	STOR155::T6::Limitations
+Correlation does NOT equal what?	<b>CAUSATION!</b> Association is not causation	STOR155::T6::Limitations
+
+# TOPIC 7: LINEAR REGRESSION
+What is a regression line?	Describes how response <b>Y changes</b> with respect to explanatory <b>X</b>	STOR155::T7::Definition
+Equation of regression line?	<b>ŷ = b₀ + b₁x</b>	STOR155::T7::Equation
+Formula for regression slope (b₁)?	<b>b₁ = r × (sᵧ/sₓ)</b>	STOR155::T7::Formulas
+Formula for y-intercept (b₀)?	<b>b₀ = ȳ - b₁x̄</b>	STOR155::T7::Formulas
+What does the SLOPE represent?	Change in Y for each <b>1-unit increase</b> in X	STOR155::T7::Interpretation
+What does the Y-INTERCEPT represent?	Predicted value of Y when <b>X = 0</b> (may not be meaningful!)	STOR155::T7::Interpretation
+What is a residual?	Residual = <b>Observed - Predicted</b> = y - ŷ	STOR155::T7::Residuals
+Positive residual means?	Model <b>UNDERESTIMATED</b> (actual > predicted)	STOR155::T7::Residuals
+Negative residual means?	Model <b>OVERESTIMATED</b> (actual < predicted)	STOR155::T7::Residuals
+What is r² (coefficient of determination)?	<b>Percentage of variation</b> in Y explained by the regression line	STOR155::T7::RSquared
+How to calculate r²?	Square the correlation: <b>r² = (r)²</b>	STOR155::T7::RSquared
+r = 0.8 → r² = ?	<b>0.64 = 64%</b> of variation explained	STOR155::T7::RSquared
+What is interpolation?	Predicting y for x-values <b>WITHIN</b> the data range - <b>TRUSTWORTHY</b>	STOR155::T7::Predictions
+What is extrapolation?	Predicting y for x-values <b>OUTSIDE</b> the data range - <b>UNTRUSTWORTHY</b>	STOR155::T7::Predictions
+What does an ideal residual plot look like?	<b>Random scatter</b> around 0, <b>no pattern</b>, constant spread	STOR155::T7::ResidualPlots
+Curved pattern in residual plot means?	Linear model is <b>NOT appropriate</b> (nonlinear relationship)	STOR155::T7::ResidualPlots
+Fan/funnel shape in residual plot means?	<b>Heteroskedasticity</b> (non-constant variance) - problem!	STOR155::T7::ResidualPlots
+Does switching x and y change the regression line?	<b>YES!</b> Unlike correlation, order matters in regression	STOR155::T7::Important
+
+# COMMON MISTAKES - MUST AVOID
+MISTAKE: Variance divides by n	<b>WRONG!</b> Sample variance divides by <b>(n-1)</b>	STOR155::Mistakes
+MISTAKE: Right-skewed = peak on right	<b>WRONG!</b> Right-skewed = <b>TAIL</b> on right, peak on LEFT	STOR155::Mistakes
+MISTAKE: Correlation = Causation	<b>NEVER!</b> Correlation only shows association	STOR155::Mistakes
+MISTAKE: r = 0 means no relationship	<b>WRONG!</b> Could have strong <b>NONLINEAR</b> relationship	STOR155::Mistakes
+MISTAKE: r = 0.7 means 70% relationship	<b>WRONG!</b> r is not a percentage; r² = 0.49 = 49% variation explained	STOR155::Mistakes
+MISTAKE: Stratified and cluster are the same	<b>WRONG!</b> Stratified = homogeneous, sample ALL. Cluster = heterogeneous, sample SOME	STOR155::Mistakes
+MISTAKE: Observational studies can show causation	<b>NEVER!</b> Only experiments can establish causation	STOR155::Mistakes
+MISTAKE: Extrapolation is fine	<b>WRONG!</b> Predictions outside data range are <b>UNTRUSTWORTHY</b>	STOR155::Mistakes
+MISTAKE: Outliers don't affect correlation	<b>WRONG!</b> Outliers can <b>drastically</b> change r	STOR155::Mistakes

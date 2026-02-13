@@ -1,6 +1,57 @@
 {
   "cascadeColors": false,
   "colorBackground": false,
-  "palette": [],
+  "palette": [
+    {
+      "id": "wAk3yoyOPX6vJS7XHr8SU",
+      "name": "",
+      "value": "#4d82ff"
+    },
+    {
+      "id": "IU5ro5uRgYdxBqLn1tYUZ",
+      "name": "",
+      "value": "#de38ff"
+    },
+    {
+      "id": "fF105ClLKi-RqzLbD5dtp",
+      "name": "",
+      "value": "#9238ff"
+    },
+    {
+      "id": "hlazF1NmvCWyeR0tyml8I",
+      "name": "",
+      "value": "#1fff80"
+    },
+    {
+      "id": "EGQfpDtePaCcJNRJOVol5",
+      "name": "",
+      "value": "#ff9838"
+    },
+    {
+      "id": "bwiztW3tlVf5u69BGI2k_",
+      "name": "",
+      "value": "#1e00ff"
+    },
+    {
+      "id": "NryftXNrz8HjAyZVb3ElP",
+      "name": "",
+      "value": "#00eeff"
+    },
+    {
+      "id": "ukMjHfePIh6xgfwUAvuSS",
+      "name": "",
+      "value": "#ff004c"
+    },
+    {
+      "id": "yLEBlDdf7WYkE87-Qxz8W",
+      "name": "",
+      "value": "#ff0032"
+    },
+    {
+      "id": "lQzLTN5kVRE9Jk6tO9Mqg",
+      "name": "",
+      "value": "#8c00ff"
+    }
+  ],
   "fileColors": []
 }

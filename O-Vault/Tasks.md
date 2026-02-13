@@ -1,0 +1,7 @@
+- Figure out more about the COMP210 (DSA) Placement Exam 
+- Maybe look more into Summer courses
+- Review and understand all course upcoming assignments and readings, catch up
+- Work on building personal portfolio
+- Make Food for later (dinner) & Clean House
+- Look at abroad opportunities
+- Scout for upcoming future jobs and or internships.

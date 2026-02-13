@@ -40,4 +40,32 @@ CS student with a focus on deep learning engineering. I spend more time reading 
 
 ---
 
+## Project Structure
+
+Every directory has a `README.md` inside it explaining its purpose and what belongs there. Here's the top level:
+
+```
+Study Grounds/
+├── Pedagogy/                   ← Formal university coursework (UNC)
+│   └── Semester 4/             ← Current semester (Spring 2026)
+│       ├── Repos/              ← Course repos + sandbox experiments
+│       ├── Syllabi/
+│       ├── Textbooks/
+│       └── Course Scheduals/
+├── Andragogy/                  ← Guided self-directed learning
+│   └── certifications/
+├── Heutagogy/                  ← Self-determined learning
+│   ├── courses/                ← Self-selected courses (e.g., PyTorch)
+│   ├── projects/               ← Personal learning projects
+│   └── research-notes/         ← Research paper analysis
+├── tools-and-infrastructure/   ← Automation and study utilities
+└── O-Vault/                    ← Obsidian vault (notes, study guides, flashcards)
+    ├── Learning/               ← Mirrors the three learning methods above
+    └── Navigation Index/       ← Central directory documentation hub
+```
+
+> See `O-Vault/Navigation Index/Navigation Index.md` for the full directory map.
+
+---
+
 *Last updated: February 2026*

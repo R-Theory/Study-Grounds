@@ -6,5 +6,18 @@
   "code-styler",
   "multi-column-markdown",
   "obsidian-dictionary-plugin",
-  "cmenu-plugin"
+  "cmenu-plugin",
+  "templater-obsidian",
+  "obsidian-kanban",
+  "obsidian-importer",
+  "obsidian-linter",
+  "smart-connections",
+  "homepage",
+  "copilot",
+  "calendar",
+  "obsidian-icon-folder",
+  "colored-tags",
+  "file-explorer-note-count",
+  "cmdr",
+  "obsidian-excalidraw-plugin"
 ]
